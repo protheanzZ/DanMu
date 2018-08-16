@@ -1,0 +1,12 @@
+>>>>logging time:2018/08/15-00:24:47<<<<<
+InsertTime:    0.1776 , AddNumber:        154 , WaitingTime:   467.08
+InsertTime:    0.1735 , AddNumber:        132 , WaitingTime:   330.81
+InsertTime:    0.1975 , AddNumber:        156 , WaitingTime:   399.21
+InsertTime:    0.1376 , AddNumber:        146 , WaitingTime:   369.38
+InsertTime:    0.1506 , AddNumber:        156 , WaitingTime:   431.58
+InsertTime:    0.1427 , AddNumber:        154 , WaitingTime:   436.33
+>>>>logging time:2018/08/15-13:20:09<<<<<
+>>>>logging time:2018/08/15-13:20:23<<<<<
+>>>>logging time:2018/08/15-13:20:34<<<<<
+>>>>logging time:2018/08/15-13:20:45<<<<<
+>>>>logging time:2018/08/15-13:21:07<<<<<

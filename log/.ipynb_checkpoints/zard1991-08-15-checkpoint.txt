@@ -1,0 +1,22 @@
+>>>>logging time:2018/08/15-20:50:04<<<<<
+InsertTime:    0.0905 , AddNumber:         47 , WaitingTime:   164.05 , DateNTime: Wed Aug 15 20:52:48 2018
+InsertTime:    0.1015 , AddNumber:        103 , WaitingTime:   152.44 , DateNTime: Wed Aug 15 20:55:21 2018
+InsertTime:    0.1073 , AddNumber:        100 , WaitingTime:   145.75 , DateNTime: Wed Aug 15 20:57:47 2018
+InsertTime:    0.0878 , AddNumber:        113 , WaitingTime:   186.85 , DateNTime: Wed Aug 15 21:00:54 2018
+InsertTime:    0.0908 , AddNumber:        126 , WaitingTime:   344.29 , DateNTime: Wed Aug 15 21:06:38 2018
+InsertTime:    0.0956 , AddNumber:        163 , WaitingTime:   251.88 , DateNTime: Wed Aug 15 21:10:50 2018
+InsertTime:    0.1085 , AddNumber:        165 , WaitingTime:   206.41 , DateNTime: Wed Aug 15 21:14:17 2018
+InsertTime:    0.1349 , AddNumber:        180 , WaitingTime:   164.50 , DateNTime: Wed Aug 15 21:17:01 2018
+InsertTime:    0.1270 , AddNumber:        185 , WaitingTime:   257.93 , DateNTime: Wed Aug 15 21:21:19 2018
+InsertTime:    0.1113 , AddNumber:        169 , WaitingTime:   195.80 , DateNTime: Wed Aug 15 21:24:35 2018
+InsertTime:    0.1503 , AddNumber:        170 , WaitingTime:   207.66 , DateNTime: Wed Aug 15 21:28:03 2018
+InsertTime:    0.1046 , AddNumber:        182 , WaitingTime:   170.46 , DateNTime: Wed Aug 15 21:30:54 2018
+InsertTime:    0.1001 , AddNumber:        179 , WaitingTime:   148.22 , DateNTime: Wed Aug 15 21:33:22 2018
+InsertTime:    0.1089 , AddNumber:        189 , WaitingTime:    93.21 , DateNTime: Wed Aug 15 21:34:55 2018
+InsertTime:    0.1230 , AddNumber:        185 , WaitingTime:    84.10 , DateNTime: Wed Aug 15 21:36:19 2018
+InsertTime:    0.1210 , AddNumber:        194 , WaitingTime:    72.92 , DateNTime: Wed Aug 15 21:37:32 2018
+InsertTime:    0.1075 , AddNumber:        197 , WaitingTime:   103.76 , DateNTime: Wed Aug 15 21:39:16 2018
+InsertTime:    0.1298 , AddNumber:        182 , WaitingTime:   151.45 , DateNTime: Wed Aug 15 21:41:48 2018
+InsertTime:    0.1161 , AddNumber:        183 , WaitingTime:    42.05 , DateNTime: Wed Aug 15 21:42:30 2018
+InsertTime:    0.1015 , AddNumber:        197 , WaitingTime:   140.32 , DateNTime: Wed Aug 15 21:44:51 2018
+InsertTime:    0.1320 , AddNumber:        185 , WaitingTime:   101.80 , DateNTime: Wed Aug 15 21:46:32 2018

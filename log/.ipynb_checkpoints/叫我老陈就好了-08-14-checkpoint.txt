@@ -1,0 +1,3 @@
+>>>>logging time:2018/08/14-12:49:44<<<<<
+InsertTime:    0.0798 , AddNumber:         16 , WaitingTime:   124.60
+>>>>logging time:2018/08/14-12:52:48<<<<<
