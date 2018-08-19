@@ -43,3 +43,25 @@ InsertTime:    0.1356 , AddNumber:        162 , WaitingTime:   208.52 , DateNTim
 InsertTime:    0.1008 , AddNumber:        154 , WaitingTime:   235.48 , DateNTime: Fri Aug 17 15:11:42 2018
 InsertTime:    0.1057 , AddNumber:        154 , WaitingTime:   342.24 , DateNTime: Fri Aug 17 15:17:24 2018
 InsertTime:    0.1107 , AddNumber:        151 , WaitingTime:   376.02 , DateNTime: Fri Aug 17 15:23:40 2018
+>>>>logging time:2018/08/17-23:08:11<<<<<
+InsertTime:    0.0629 , AddNumber:         11 , WaitingTime:   147.35 , DateNTime: Fri Aug 17 23:10:39 2018
+InsertTime:    0.0868 , AddNumber:         97 , WaitingTime:   167.59 , DateNTime: Fri Aug 17 23:13:26 2018
+InsertTime:    0.0818 , AddNumber:         96 , WaitingTime:   174.04 , DateNTime: Fri Aug 17 23:16:21 2018
+InsertTime:    0.0848 , AddNumber:         94 , WaitingTime:   151.74 , DateNTime: Fri Aug 17 23:18:52 2018
+InsertTime:    0.0919 , AddNumber:        149 , WaitingTime:   280.28 , DateNTime: Fri Aug 17 23:23:33 2018
+InsertTime:    0.0898 , AddNumber:        167 , WaitingTime:   198.73 , DateNTime: Fri Aug 17 23:26:52 2018
+InsertTime:    0.1037 , AddNumber:        169 , WaitingTime:   201.90 , DateNTime: Fri Aug 17 23:30:14 2018
+InsertTime:    0.0988 , AddNumber:        155 , WaitingTime:   155.82 , DateNTime: Fri Aug 17 23:32:50 2018
+InsertTime:    0.1043 , AddNumber:        168 , WaitingTime:   161.87 , DateNTime: Fri Aug 17 23:35:32 2018
+InsertTime:    0.0878 , AddNumber:        158 , WaitingTime:   121.92 , DateNTime: Fri Aug 17 23:37:34 2018
+InsertTime:    0.1038 , AddNumber:        167 , WaitingTime:   183.56 , DateNTime: Fri Aug 17 23:40:37 2018
+InsertTime:    0.0821 , AddNumber:        176 , WaitingTime:    94.07 , DateNTime: Fri Aug 17 23:42:11 2018
+InsertTime:    0.1164 , AddNumber:        192 , WaitingTime:    80.44 , DateNTime: Fri Aug 17 23:43:32 2018
+InsertTime:    0.0978 , AddNumber:        174 , WaitingTime:   109.31 , DateNTime: Fri Aug 17 23:45:21 2018
+InsertTime:    0.1072 , AddNumber:        167 , WaitingTime:    78.00 , DateNTime: Fri Aug 17 23:46:39 2018
+InsertTime:    0.1237 , AddNumber:        172 , WaitingTime:   222.37 , DateNTime: Fri Aug 17 23:50:22 2018
+InsertTime:    0.0988 , AddNumber:        147 , WaitingTime:   152.34 , DateNTime: Fri Aug 17 23:52:54 2018
+InsertTime:    0.0908 , AddNumber:        171 , WaitingTime:   145.65 , DateNTime: Fri Aug 17 23:55:20 2018
+InsertTime:    0.1107 , AddNumber:        182 , WaitingTime:   135.63 , DateNTime: Fri Aug 17 23:57:36 2018
+InsertTime:    0.1018 , AddNumber:        175 , WaitingTime:    81.98 , DateNTime: Fri Aug 17 23:58:58 2018
+InsertTime:    0.1017 , AddNumber:        179 , WaitingTime:   147.27 , DateNTime: Sat Aug 18 00:01:25 2018
