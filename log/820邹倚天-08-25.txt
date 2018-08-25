@@ -1,0 +1,12 @@
+>>>>logging time:2018/08/25-01:48:05<<<<<
+InsertTime:    0.0719 , AddNumber:         18 , WaitingTime:   160.19 , DateNTime: Sat Aug 25 01:50:45 2018
+InsertTime:    0.0998 , AddNumber:        159 , WaitingTime:   170.80 , DateNTime: Sat Aug 25 01:53:36 2018
+InsertTime:    0.1232 , AddNumber:        170 , WaitingTime:   212.63 , DateNTime: Sat Aug 25 01:57:09 2018
+InsertTime:    0.0977 , AddNumber:        147 , WaitingTime:   196.68 , DateNTime: Sat Aug 25 02:00:25 2018
+InsertTime:    0.0949 , AddNumber:        155 , WaitingTime:   360.75 , DateNTime: Sat Aug 25 02:06:26 2018
+InsertTime:    0.0965 , AddNumber:        129 , WaitingTime:   305.23 , DateNTime: Sat Aug 25 02:11:32 2018
+InsertTime:    0.0993 , AddNumber:        159 , WaitingTime:   247.92 , DateNTime: Sat Aug 25 02:15:40 2018
+InsertTime:    0.0888 , AddNumber:        168 , WaitingTime:   345.58 , DateNTime: Sat Aug 25 02:21:25 2018
+InsertTime:    0.1007 , AddNumber:        160 , WaitingTime:   397.36 , DateNTime: Sat Aug 25 02:28:03 2018
+InsertTime:    0.1077 , AddNumber:        178 , WaitingTime:   148.38 , DateNTime: Sat Aug 25 02:30:31 2018
+InsertTime:    0.1137 , AddNumber:        189 , WaitingTime:   147.01 , DateNTime: Sat Aug 25 02:32:58 2018

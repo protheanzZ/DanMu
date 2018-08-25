@@ -1011,3 +1011,9 @@ InsertTime:    0.1349 , AddNumber:         85 , WaitingTime:   173.58 , DateNTim
 InsertTime:    0.1338 , AddNumber:         53 , WaitingTime:   796.01 , DateNTime: Sun Aug 19 10:08:01 2018
 InsertTime:    0.1113 , AddNumber:         67 , WaitingTime:   597.80 , DateNTime: Sun Aug 19 10:17:59 2018
 InsertTime:    0.1161 , AddNumber:         77 , WaitingTime:  1099.83 , DateNTime: Sun Aug 19 10:36:19 2018
+>>>>logging time:2018/08/19-23:52:23<<<<<
+InsertTime:    0.3075 , AddNumber:          5 , WaitingTime:   102.72 , DateNTime: Sun Aug 19 23:54:06 2018
+InsertTime:    0.3447 , AddNumber:         74 , WaitingTime:   103.69 , DateNTime: Sun Aug 19 23:55:50 2018
+InsertTime:    0.3191 , AddNumber:         66 , WaitingTime:   116.25 , DateNTime: Sun Aug 19 23:57:47 2018
+InsertTime:    0.0479 , AddNumber:         68 , WaitingTime:   109.70 , DateNTime: Sun Aug 19 23:59:37 2018
+InsertTime:    0.0962 , AddNumber:         73 , WaitingTime:    64.65 , DateNTime: Mon Aug 20 00:00:41 2018
